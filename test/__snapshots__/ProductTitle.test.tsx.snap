@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`productTitle render productCard with product title 1`] = `
+<div
+  className="productCard undefined"
+>
+  <span
+    className="productDescription "
+  >
+    Coffe mug - sin imagen
+  </span>
+</div>
+`;
+
+exports[`productTitle renders the UI as expected 1`] = `
+<span
+  className="productDescription Custom-class"
+>
+  Custom Product
+</span>
+`;

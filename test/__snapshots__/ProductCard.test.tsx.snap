@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`productCard render productCard with product title 1`] = `
+<div
+  className="productCard undefined"
+>
+  <h1>
+    Producto
+  </h1>
+</div>
+`;
+
+exports[`productCard test funcionality of counter 1`] = `
+<div
+  className="productCard undefined"
+>
+  <h1>
+    Producto
+  </h1>
+  <span>
+    0
+  </span>
+  <button
+    onClick={[Function]}
+  />
+</div>
+`;

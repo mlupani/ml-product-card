@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`productImage render productCard with no-Image 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product"
+    className="productImg undefined"
+    src="./Coffee-mug.png"
+  />
+</div>
+`;
+
+exports[`productImage renders the UI as expected 1`] = `
+<img
+  alt="Product"
+  className="productImg undefined"
+  src="https://hola.jpg"
+/>
+`;
